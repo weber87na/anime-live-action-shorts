@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 真人化 Shorts"
+  short_description: "自訂人物風格，每角先畫至少三張，選圖確認後才製作真人化短片"
+  default_prompt: "使用 $anime-live-action-shorts 製作角色真人化短片，先讓我設定風格，每位角色至少畫三張供我選擇，等我確認圖片後再生成影片。"

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "project_id": "new-character-short",
+  "style": {
+    "visual_direction": null,
+    "face_direction": null,
+    "age_presentation": null,
+    "physique": null,
+    "wardrobe": null,
+    "setting": null,
+    "lighting": null,
+    "reference_policy": null
+  },
+  "characters": [
+    {
+      "id": "character-a",
+      "name": "角色 A",
+      "canon": {},
+      "appearance": {},
+      "candidates": [],
+      "selected_candidate_id": null
+    }
+  ],
+  "selection_confirmation": null,
+  "video": {
+    "aspect_ratio": "9:16",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "target_seconds": null,
+    "character_seconds": {"min": 3, "max": 5},
+    "playback_speed": 1.0,
+    "transition": {"type": "crossfade", "seconds": 0.2},
+    "intro": {"enabled": false, "source": null, "in_seconds": null, "out_seconds": null}
+  },
+  "layout": {
+    "mode": "full-frame-live-action-with-static-anime-inset",
+    "inset": {"enabled": true, "position": "bottom-left", "size": null},
+    "labels": {"enabled": true, "language": "zh-TW", "style": null},
+    "reframe_mode": null
+  },
+  "audio": {
+    "source": null,
+    "version": null,
+    "in_seconds": null,
+    "out_seconds": null,
+    "loop": false,
+    "retain_generated_audio": false
+  },
+  "generation": {
+    "backend": null,
+    "skill_path": null,
+    "quality": null,
+    "environment": {}
+  },
+  "sources": []
+}
